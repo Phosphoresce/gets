@@ -24,3 +24,6 @@ Developing Houston
 404 instructions not found.  
 
 If you would like to help email me or simply send me a pull request.  
+
+
+Special thanks for mfaltys for helping improve this.
