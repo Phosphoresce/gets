@@ -18,8 +18,8 @@ Gets was designed to be used inside a Docker container that needs to pull object
 
 Thats pretty much it so far!
 
-Developing Houston
-------------------
+Developing Getobject
+--------------------
 
 404 instructions not found.  
 
